@@ -67,7 +67,7 @@ const Nav = () => {
           </>
         )}
       </div>
-     { console.log('MONGODB_URI:', process.env.MONGODB_URI)}
+    
 
       {/* Mobile Navigation */}
       <div className="sm:hidden flex relative">
